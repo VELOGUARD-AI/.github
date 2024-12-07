@@ -1,2 +1,2 @@
-# .github
+# .VELOGUARD AI 
 About Company
