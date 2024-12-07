@@ -1,2 +1,2 @@
-# .VELOGUARD AI 
+# VELOGUARD AI 
 About Company
